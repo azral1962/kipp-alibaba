@@ -18,5 +18,25 @@
       "/portfolio/week-14.html",
       "/portfolio/week-15.html"
     ]
+  },
+  {
+    "listing": "/kipp-students-main/portfolio/index.html",
+    "items": [
+      "/kipp-students-main/portfolio/week-01.html",
+      "/kipp-students-main/portfolio/week-02.html",
+      "/kipp-students-main/portfolio/week-03.html",
+      "/kipp-students-main/portfolio/week-04.html",
+      "/kipp-students-main/portfolio/week-05.html",
+      "/kipp-students-main/portfolio/week-06.html",
+      "/kipp-students-main/portfolio/week-07.html",
+      "/kipp-students-main/portfolio/week-08.html",
+      "/kipp-students-main/portfolio/week-09.html",
+      "/kipp-students-main/portfolio/week-10.html",
+      "/kipp-students-main/portfolio/week-11.html",
+      "/kipp-students-main/portfolio/week-12.html",
+      "/kipp-students-main/portfolio/week-13.html",
+      "/kipp-students-main/portfolio/week-14.html",
+      "/kipp-students-main/portfolio/week-15.html"
+    ]
   }
 ]
