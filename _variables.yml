@@ -1,5 +1,5 @@
 student:
-  name: "Nama Mahasiswa"
+  name: "Ali Baba"
   id: "NIM"
   program: "Program Studi"
   cohort: "Angkatan"
@@ -12,5 +12,5 @@ course:
   semester: "Semester / Tahun Akademik"
 
 repository:
-  url: "https://github.com/USERNAME/NAMA-REPOSITORY"
+  url: "https://github.com/azral1962/kipp-alibaba"
 
